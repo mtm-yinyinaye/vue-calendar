@@ -75,5 +75,6 @@ p {
 }
 a {
   text-decoration: none;
+  margin: 0 10px;
 }
 </style>

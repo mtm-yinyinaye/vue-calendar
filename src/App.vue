@@ -1,7 +1,7 @@
 <template>
   <div class="mb-5">
-    <router-link class="mb-5" to="/">Sample Calendar</router-link>
-    <router-link to="/fullcalender">Full Calendar</router-link>
+    <router-link to="/">Sample Calendar</router-link>
+    <router-link class="ml-2" to="/fullcalender">Full Calendar</router-link>
   </div>
   <router-view></router-view>
 </template>

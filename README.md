@@ -34,7 +34,7 @@ vue-simple-calendar
 ```
 
 ```
-FullCalendar
+@fullcalendar/vue3
     https://www.npmjs.com/package/@fullcalendar/vue3
     https://codesandbox.io/s/27n33?file=/src/Demo.vue
     https://fullcalendar.io/docs/vue
